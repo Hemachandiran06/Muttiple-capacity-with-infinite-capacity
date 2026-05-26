@@ -1,5 +1,5 @@
 ## EX-5 Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
-## DATE:16-5-26
+## DATE:18-5-26
 
 ## DEVELOPED BY : MAHALAKSHMI M
 ## REGISTER NUMBER: 212224230148
